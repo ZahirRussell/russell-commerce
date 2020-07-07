@@ -38,3 +38,8 @@ border-radius: 10px;
 .cat3{
     background-image: linear-gradient(to bottom,#ffac13 0px, #e9c371 100px);
 }
+
+.card{
+border: none;
+box-shadow: 5px 5px 10px lightgray;
+}
